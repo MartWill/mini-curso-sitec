@@ -1,6 +1,9 @@
 # mini-curso-sitec
 Repositório referente ao minicurso ministrado no evento SITEC na UFPA, para a criação do jogo Flappy Bird usando Unity. 
 
+Baseado no tutorial : [Valem](https://www.youtube.com/watch?v=uRWmEjxY334)
+
+
 
 ### Criar um novo Projeto Unity
 
@@ -14,7 +17,7 @@ Após esse processo, ira abrir um projeto vazio.
 
 ### Preparar as imagens
 
-Dentro da pasta `arquivos_minicurso` copie o arquivo `FlappyBirdSprites.png` para a pastas `Assets>Sprites`.
+Dentro da pasta `arquivos_minicurso` copie o arquivo `FlappyBirdSprites.png` para a pastas `Assets > Sprites`.
 
 
 Com o arquivo dentro do Unity, clicke uma vez com o botão esquerdo, note que ira aparecer as configurações desse arquivo no `Inspertor`, agora vamos alterar:
@@ -66,7 +69,8 @@ Recomendamos que,
 
 - `Tranform > Scale` está com os valores (x: 4 , y: 4, z: 1)
 
-*A Position e Scale podem ser ajustados de acordo com sua preferencia.
+*A `Position` e `Scale` podem ser ajustados de acordo com sua preferencia.
 
 #### Bird
 
+(...)
